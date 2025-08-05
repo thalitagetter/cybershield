@@ -1,0 +1,41 @@
+body {
+  height: 100vh;   /* Garante que ocupe a altura da tela */
+  background-image: url('https://images.unsplash.com/photo-1644325349124-d1756b79dd42?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;       /* Faz a imagem cobrir toda a tela */
+  background-position: center;  /* Centraliza a imagem */
+  
+  margin: 0;
+  
+}
+
+.titulo {
+    font-size: 50px; 
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    font-family: 'Press, Start 2P', cursive; 
+    
+    
+    
+}
+
+.subtitulo {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Press, Start 2P', cursive'
+}
+
+.botao {
+    margin-left: 37%;
+    border: 2px solid white;
+    display: inline-block;  
+    cursor: pointer; /* muda o mouse pra mostrar que dá p clicar*/
+    padding: 10px 20px;
+    font-size: 90px;
+    text-align: center;
+    color: white;
+    font-family: 'Press, start 2P', cursive';
+    
+}
+
